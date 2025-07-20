@@ -1,1 +1,11 @@
 Creates a .txt to note down the git hub basics
+Contains basic git config comments required for first phase.
+After installing "gitlab" and "visual studio" in the system.
+
+just typing "git" in command prompt will let us know whether installation happened properly
+Git config comments
+git config --global user.name "DEIVAMANI-S"
+git config --global user.mail "deivamani91@gmail.com"
+
+
+
