@@ -1,1 +1,13 @@
 created to have the git commands with description and example if possible
+
+clone command to bring the git repository from gitbug to local machine folder
+git clone https://github.com/DEIVAMANI-S/gittutorial.git
+
+git add gitcommand.txt
+
+git commit -m "git command text file command added"
+
+git status
+
+git push origin main
+
