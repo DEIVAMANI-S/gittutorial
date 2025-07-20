@@ -1,0 +1,1 @@
+Creates a .txt to note down the git hub basics
