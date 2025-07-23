@@ -7,5 +7,20 @@ Git config comments
 git config --global user.name "DEIVAMANI-S"
 git config --global user.mail "deivamani91@gmail.com"
 
+#Will let us know what are all configuration settings of the golbal variables(settings)
+git config -l --global
+
+Command to changes proxy settings:
+git config --global https.proxy http://rb-proxy-de.bosch.com:8080
+git config --global http.proxy http://rb-proxy-de.bosch.com:8080
+
+Command to generate ssh key for the github account
+ssh-keygen -t ed25519 -C "deivamani91@gmail.com" -f $HOME/.ssh_git/id_rsa
+
+Setting environemental varriables
+HTTP_PROXY http://localhost:3128
+HTTPS_PROXY http://localhost:3128
+
+
 
 

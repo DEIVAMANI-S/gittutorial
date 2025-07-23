@@ -1,4 +1,11 @@
-created to have the git commands with description and example if possible
+Pre-requisites
+1.) Install gitlab 
+2.) Install visual studio code latest version
+
+After 1.) Just type git in command prompt to know whether everything works fine
+
+
+Created to have the git commands with description and example if possible
 
 clone command to bring the git repository from gitbug to local machine folder
 git clone https://github.com/DEIVAMANI-S/gittutorial.git
@@ -10,4 +17,7 @@ git commit -m "git command text file command added"
 git status
 
 git push origin main
+
+git terminate
+
 

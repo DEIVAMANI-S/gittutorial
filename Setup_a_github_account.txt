@@ -1,0 +1,22 @@
+steps:
+Setup a GitHub Account
+
+Username - Please pick a publicly & humanly readable username! Do not use your Bosch User ID (ntuser) here!
+
+Create the account with your email address, this can also be a non-business email. Chose any email address you use except ntuser@bosch.com.
+
+Here is some more information around the GitHub Account.
+
+Log in.
+
+Go to https://github.com/settings/emails
+
+Add ntuser@bosch.com (<NT User> replace this with your real userid)
+
+Verify the email address
+
+Activate two-factor authentication - https://github.com/settings/security
+
+You need an authenticator app to enable 2FA, there is no preferred app.
+
+Make sure you set and document your recovery codes in a secure place. We have no access to these settings and cannot provide any support.
